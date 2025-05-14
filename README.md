@@ -16,3 +16,12 @@ This is a small android project in the Kotlin language, which has 3 levels (easy
 | **UI**                   | Fragment Navigation               |
 
 ## Screenshots
+<img src="screenshots/screen1.jpg" width="300">
+
+<img src="screenshots/screen2.jpg" width="300">
+
+<img src="screenshots/screen3.jpg" width="300">
+
+<img src="screenshots/screen4.jpg" width="300">
+
+<img src="screenshots/screen5.jpg" width="300">
